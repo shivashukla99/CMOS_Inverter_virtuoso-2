@@ -49,6 +49,7 @@ Therefore, the circuit performs the **NOT logic operation**.
 The CMOS inverter schematic was designed using Cadence Virtuoso.
 
 ![CMOS Inverter Schematic](CMOS_Inverter_Schematic.png)
+![CMOS Inverter Schematic](CMOS_Inverter_Symbol.png)
 ![CMOS_Inverter_Symbol with Vpulse and DC](CMOS_Inverter_Symbol_with_Vpulse_and_DC.png)
 
 ## 📊 Simulation
@@ -59,19 +60,19 @@ The circuit was simulated using the **Cadence Spectre simulator** to observe its
 
 Transient analysis is used to observe how the output changes with respect to the input signal over time.
 
-![Transient Simulation](Simulation_result.png)
+![Transient Simulation](trans_Simulation_result.png)
 
 ### Voltage Transfer Characteristic
 
 The voltage transfer characteristic (VTC) shows the relationship between input voltage and output voltage.
 
-![Voltage Transfer Characteristic](Trans _and_DC.png)
+![Voltage Transfer Characteristic](DC_Simulation_result.png)
 
 ## 🧩 Layout
 
 The physical layout of the CMOS inverter was created using Cadence Virtuoso.
 
-![CMOS Inverter Layout](CMOS_Inverter_Symbol with Vpulse and DC.png)
+![CMOS Inverter Layout](CMOS_Inverter_Symbol_with_Vpulse_and_DC.png)
 
 ## ✅ Verification
 
