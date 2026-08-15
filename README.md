@@ -1,5 +1,3 @@
-<img width="1280" height="768" alt="Trans and DC" src="https://github.com/user-attachments/assets/a214da65-6696-40bb-9ed9-7d5e27faa85e" /># CMOS Inverter Design Using Cadence Virtuoso
-
 ## 📌 Project Overview
 
 This project demonstrates the design and simulation of a **CMOS Inverter** using **Cadence Virtuoso**. The project focuses on transistor-level CMOS circuit design, schematic creation, simulation, and analysis of the inverter's electrical behavior.
@@ -51,6 +49,7 @@ Therefore, the circuit performs the **NOT logic operation**.
 The CMOS inverter schematic was designed using Cadence Virtuoso.
 
 ![CMOS Inverter Schematic](CMOS_Inverter_Schematic.png)
+![CMOS_Inverter_Symbol with Vpulse and DC](CMOS_Inverter_Symbol_with_Vpulse_and_DC.png)
 
 ## 📊 Simulation
 
@@ -60,7 +59,7 @@ The circuit was simulated using the **Cadence Spectre simulator** to observe its
 
 Transient analysis is used to observe how the output changes with respect to the input signal over time.
 
-![Transient Simulation](Simulation_result.pdf)
+![Transient Simulation](Simulation_result.png)
 
 ### Voltage Transfer Characteristic
 
